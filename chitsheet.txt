@@ -15,3 +15,7 @@ git commit - a -m to commit directory directly
 git rm <filename> to delete the file completly 
 git rm --chached <filename> remove file from stagging area only
 git status -s shows the current status of files
+.gitignore ignore the files which do not need to commit
+.gitignore > /mylogs.log will ignore perticular file where gitignore is located
+.gitignore > *.log will ignore all the log file
+.gitignore > <foldername>/ will ignore folder after this name
