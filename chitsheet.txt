@@ -1,5 +1,5 @@
 git status for check the status 
-git add <file> to add file in stagging 
+git add <fistatle> to add file in stagging 
 git add -A to add all the file in stagging area at once
 git commit for commit the file 
 i to enable edit mode in vm editor
