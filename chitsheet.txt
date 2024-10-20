@@ -19,3 +19,6 @@ git status -s shows the current status of files
 .gitignore > /mylogs.log will ignore perticular file where gitignore is located
 .gitignore > *.log will ignore all the log file
 .gitignore > <foldername>/ will ignore folder after this name
+git branch <branchname> will create a branch which is saperate from Main branch
+git checkout <branchname> to jump from one branch to other
+git merge <branchname> to merge subbranch with main branch 
