@@ -22,3 +22,4 @@ git status -s shows the current status of files
 git branch <branchname> will create a branch which is saperate from Main branch
 git checkout <branchname> to jump from one branch to other
 git merge <branchname> to merge subbranch with main branch 
+git checkout -b <branchname> will create a new branch and switch the user in it
